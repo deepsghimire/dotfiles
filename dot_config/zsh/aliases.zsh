@@ -1,0 +1,17 @@
+alias vim=nvim
+alias f=nnn
+alias edit=nvim
+alias mux=tmuxinator
+alias par=parallel
+alias -s {tex,py,c,md,go}=nvim
+alias -s html=xdg-open
+alias -s pdf=zathura
+alias -s {com,org,io,net}=firefox
+alias burp="BurpSuiteCommunity & disown"
+alias feed=newsboat
+alias mail=neomutt
+alias dh='dirs -v'
+alias ls='exa --icons '
+alias tree='exa --icons --tree'
+alias nnn='nnn -e'
+alias chez='chezmoi --color true'

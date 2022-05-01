@@ -1,0 +1,4 @@
+setopt appendhistory incappendhistory sharehistory cdablevars extendedglob
+setopt bare_glob_qual no_notify csh_null_glob hist_verify hist_ignore_all_dups 
+setopt hist_reduce_blanks hist_save_no_dups hist_ignore_space no_beep
+setopt noclobber
