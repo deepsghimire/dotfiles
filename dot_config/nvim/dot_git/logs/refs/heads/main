@@ -1,9 +1,0 @@
-0000000000000000000000000000000000000000 83357089dd90eda107f6eac21dd327dd1f483370 stengah <deepsghimire1@gmail.com> 1651226198 +0545	branch: Created from refs/remotes/origin/22-autocommands
-83357089dd90eda107f6eac21dd327dd1f483370 3293643fafc29b76b931f2f3f7798d1a4b3b8bf6 stengah <deepsghimire1@gmail.com> 1651229618 +0545	commit: Fixed some errors
-3293643fafc29b76b931f2f3f7798d1a4b3b8bf6 3293643fafc29b76b931f2f3f7798d1a4b3b8bf6 stengah <deepsghimire1@gmail.com> 1651229827 +0545	Branch: renamed refs/heads/22-autocommands to refs/heads/main
-3293643fafc29b76b931f2f3f7798d1a4b3b8bf6 b0490285f27ca4aea2e98dff6ac14e8c2e06574e stengah <deepsghimire1@gmail.com> 1651229953 +0545	commit: Modified Readme
-b0490285f27ca4aea2e98dff6ac14e8c2e06574e 83ef7532918831634ae2332b6f904eef2566d6c5 stengah <deepsghimire1@gmail.com> 1651230937 +0545	commit: added documentation border
-83ef7532918831634ae2332b6f904eef2566d6c5 5efae1e7b3a48c63e10be2ba228bc9b6ef5a6280 stengah <deepsghimire1@gmail.com> 1651233106 +0545	commit: added shellcheck
-5efae1e7b3a48c63e10be2ba228bc9b6ef5a6280 8c00fdd4d5cc797e0dc813d3883ee833a4fb3d5c stengah <deepsghimire1@gmail.com> 1651241397 +0545	commit: code actions
-8c00fdd4d5cc797e0dc813d3883ee833a4fb3d5c b827d87d4188b39077a8b48cf21709097cc33f2a stengah <deepsghimire1@gmail.com> 1651290519 +0545	commit: added files to ignore
-b827d87d4188b39077a8b48cf21709097cc33f2a 763d9ab11daa5d214d567411781c616b93fccb6e stengah <deepsghimire1@gmail.com> 1651291744 +0545	commit: changed readme
