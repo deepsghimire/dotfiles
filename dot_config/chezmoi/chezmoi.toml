@@ -1,0 +1,12 @@
+color = "auto"
+
+[data]
+  email = "deepsghimire1@gmail.com"
+
+[diff]
+  command = "delta"
+  pager = "delta"
+
+
+[git]
+  autoCommit = true
