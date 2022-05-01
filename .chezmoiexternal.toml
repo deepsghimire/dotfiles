@@ -22,10 +22,3 @@
     exact = true
     stripComponents = 1  
     refreshPeriod = "96h"
-[".oh-my-zsh/custom/plugins/zsh-autosuggestions"]
-    type = "git-repo"
-    url = "https://github.com/zsh-users/zsh-autosuggestions"
-    exact = true
-    stripComponents = 1  
-    refreshPeriod = "96h"
-
