@@ -18,6 +18,5 @@ null_ls.setup({
     diagnostics.flake8,
     diagnostics.shellcheck,
     code_actions.shellcheck,
-    formatting.shellharden
 	},
 })
