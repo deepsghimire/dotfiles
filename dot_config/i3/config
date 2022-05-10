@@ -241,3 +241,4 @@ assign [class=^firefox$] $ws4
 assign [class=^Brave-browser$] $ws4
 assign [class=^Atril$] $ws3
 assign [class=^Zathura$] $ws3
+assign [class=^Thunderbird$] $ws5
