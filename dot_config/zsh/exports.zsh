@@ -5,3 +5,4 @@ export NNN_FIFO="/tmp/nnn.fifo"
 export NNN_PLUG="p:preview-tui"
 export EDITOR='nvim'
 export BROWSER='brave'
+export GPG_TTY=$(tty)
