@@ -234,11 +234,10 @@ bindsym $mod+shift+m unmark
 bindsym $mod+shift+minus move scratchpad
 bindsym $mod+minus scratchpad show
 
-# search selected text on google
-bindsym $mod+q exec --no-startup-id "bash ~/bin/google-search"
 
 assign [class=^firefox$] $ws4
 assign [class=^Brave-browser$] $ws4
 assign [class=^Atril$] $ws3
 assign [class=^Zathura$] $ws3
 assign [class=^Thunderbird$] $ws5
+assign [class=^obsidian$] $ws1
